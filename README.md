@@ -35,4 +35,4 @@
 * When game restarts, the player speed will also be reset to its initial speed value.
 ## 8. Creative Modification
 * Health bar decreases along a gradient of colors.
-* Screen flashes red for a short duration on collision with barriers and enemies.
+* Screen flashes red for a short duration on collision with barriers and enemies (which is equivalent to lose health).
