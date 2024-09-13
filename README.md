@@ -36,3 +36,4 @@
 ## 8. Creative Modification
 * Health bar decreases along a gradient of colors.
 * Screen flashes red for a short duration on collision with barriers and enemies (which is equivalent to lose health).
+* When player picks up any health pack, there will be a pop-up text notification appear on the top of the health bar for indication purpose.
